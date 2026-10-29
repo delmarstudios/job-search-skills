@@ -1,0 +1,13 @@
+{
+  "page": "Letter",
+  "date": "29 October 2026",
+  "company": "Fabrikam",
+  "recipient": "Hiring Team",
+  "paragraphs": [
+    "I'm applying for the Marketplace Operations Manager role at Fabrikam. For six years in e-commerce and payments I have turned seller data into targets, standards and rules that sellers and partners can actually follow, which is the core of this role.",
+    "At Northwind Marketplace I built the annual GMV target model for more than 1,200 sellers across 8 categories, and management approved the targets. I also designed seller onboarding standards and a quarterly scorecard that we use to review more than 40 logistics partners.",
+    "I wrote the business requirements for a seller analytics dashboard and coordinated pilots with 3 seller segments. Earlier, I reworked promotion eligibility rules, which contributed to a double-digit increase in promoted-listing traffic.",
+    "{why_company}",
+    "I can start immediately. Thank you for considering my application; I would welcome the chance to discuss how I could help Fabrikam's marketplace grow."
+  ]
+}

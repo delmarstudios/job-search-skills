@@ -1,0 +1,33 @@
+{
+  "page": "Letter",
+  "show_availability": true,
+  "summary": "Marketplace operations professional with 6+ years in e-commerce and payments. Builds GMV plans, seller and partner standards, and dashboards, and turns analysis into rules that sellers and partners can follow.",
+  "jobs": [
+    {
+      "company": "Northwind Marketplace",
+      "city": "Singapore",
+      "title": "Senior Marketplace Operations Specialist",
+      "dates": "Mar 2022 – Present",
+      "bullets": [
+        "Built the annual GMV target model for 1,200+ sellers across 8 categories; management approved the targets.",
+        "Designed seller onboarding standards and a quarterly scorecard used to review 40+ logistics partners.",
+        "Wrote business requirements for a seller analytics dashboard and coordinated pilots with 3 seller segments.",
+        "Reworked promotion eligibility rules, contributing to a double-digit increase in promoted-listing traffic."
+      ]
+    },
+    {
+      "company": "Contoso Payments",
+      "city": "Kuala Lumpur",
+      "title": "Operations Analyst",
+      "dates": "Jul 2019 – Feb 2022",
+      "bullets": [
+        "Analyzed 2,000+ monthly support tickets and wrote SOPs for card activation issues; first-contact resolution rose 12%."
+      ]
+    }
+  ],
+  "skills": [
+    ["Operations", "GMV planning, partner scorecards, SOP design, business requirements"],
+    ["Languages", "English (native), Malay (professional), Mandarin (conversational)"]
+  ],
+  "education": [["Example University", "B.Sc. Business Analytics", "2019"]]
+}

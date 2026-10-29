@@ -1,0 +1,9 @@
+{
+  "name": "job-search-skills",
+  "description": "Honest high-volume job search: daily search pipeline, one-page resume and cover letter builder, fact-check gate, recruiter outreach and form-answer bank.",
+  "version": "0.1.0",
+  "author": {"name": "delmarstudios"},
+  "repository": "https://github.com/delmarstudios/job-search-skills",
+  "license": "MIT",
+  "keywords": ["job-search", "resume", "cover-letter", "career", "skills"]
+}

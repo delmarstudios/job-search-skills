@@ -1,0 +1,12 @@
+# Personal data never leaves your machine
+config/candidate.json
+FACTS.md
+form_answers.md
+jds/
+outputs/
+*.local.*
+
+# Build artifacts (examples/output is regenerated from the example JSON)
+examples/output/*.html
+__pycache__/
+.DS_Store

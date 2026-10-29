@@ -1,0 +1,11 @@
+{
+  "name": "job-search-skills",
+  "owner": {"name": "delmarstudios"},
+  "plugins": [
+    {
+      "name": "job-search-skills",
+      "source": "./",
+      "description": "Honest high-volume job search skills: pipeline, resume builder, fact check, outreach, form answers."
+    }
+  ]
+}
